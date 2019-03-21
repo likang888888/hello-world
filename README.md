@@ -1,2 +1,2 @@
-# hello-world
-my-First-Repository
+# hello-world,I'm Lee Kang.
+This is my first repository.
